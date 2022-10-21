@@ -11,3 +11,7 @@ Descrição de cada propriedade:
 - **likes** é a quantidade de likes que o repositório recebeu (e que vai ser incrementada de 1 em 1 a cada chamada na rota de likes).
 
 Note que a quantidade de likes deve sempre ser zero no momento de criação.
+
+### To start run
+
+`npm run dev`
